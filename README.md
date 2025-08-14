@@ -43,6 +43,7 @@ A versatile Python bot for managing and moderating Discord group DMs, built usin
     ```bash
     python bot.py
     ```
+*I'd recommend creating an alt account and giving the group chat ownership to that account, to avoid accident account termination (self botting is direct ToS violation, but after months of testing, my account is still up and running). Current logic doesn't do any risky requests, so for now, this should be fine.
 
 ---
 
